@@ -1,14 +1,12 @@
 🚧 Work in progress
 
 # Template
-Since this is a template, you will want to replace the README.md and LICENSE files in this project with your own.
+Since this is a template, you will want to replace the README.md (keep a copy of the original) and LICENSE files in this project with your own.
 
 The project contains a [Compiled Game Design Document](compiled-template.pdf) to showcase what the compiled template will look like.
 
-# Setup
+# Usage
 This LaTeX project is intended to be used with [Overleaf](https://www.overleaf.com), an online LaTeX editor. You can either clone this repository and upload it to Overleaf manually, or connect Overleaf directly to this GitHub repo (Overleaf Pro feature).
-
-### 🔧 Recommended Usage
 
 - Open the project in Overleaf for easy editing, compilation, and PDF preview.
 - The main file is `main.tex`.
